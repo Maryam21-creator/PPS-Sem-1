@@ -1,0 +1,7 @@
+// My first program to display message
+#include<stdio.h>
+int main ()
+{
+printf("Hello, World");
+return 0;
+}
